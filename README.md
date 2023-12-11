@@ -27,6 +27,7 @@ Storage:
 
 
 UML DIAGRAM:
+![image](https://github.com/Mickail-sheriff/Major-project-1/assets/151660620/8c05d5e0-18eb-4119-9fcd-5980ab07ec6c)
 
  
 
